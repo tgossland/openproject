@@ -26,7 +26,7 @@ OpenProject with Docker can be launched in two ways:
 First, you must clone the OpenProject repository:
 
 ```bash
-git clone --depth=1 --branch=stable/10 https://github.com/opf/openproject
+git clone --depth=1 --branch=stable/10 https://github.com/opf/openproject.git
 ```
 
 Then, go into the OpenProject folder and you can launch all the services required by OpenProject with docker-compose:
